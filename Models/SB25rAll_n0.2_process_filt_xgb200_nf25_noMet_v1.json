@@ -1,0 +1,21 @@
+{
+    "features": [
+        "Irrigation",
+        "week_sin",
+        "week",
+        "week_cos",
+        "veg_median_evi",
+        "veg_median_pvr",
+        "s1_angle",
+        "s1_vv",
+        "s1_sigma_vv_linear",
+        "veg_max_pvr",
+        "veg_mean_pvr",
+        "ndvi_evi_ratio",
+        "veg_max_lai",
+        "s1_rcspr",
+        "veg_mean_msi",
+        "veg_median_ndvi",
+        "s1_p_ratio"
+    ]
+}
