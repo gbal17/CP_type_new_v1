@@ -7,7 +7,7 @@ This project contains a series of Python notebooks and scripts designed to facil
 
 ## 📁 File Descriptions
 
-### [`1_SB25r_Fit_Classifier.ipynb`](./1_SB25r_Fit_Classifier.ipynb)
+### [`1_SB25rAll_Fit_Classifier.ipynb`](./1_SB25rAll_Fit_Classifier.ipynb)
 
 Train and evaluate an XGBoost-based crop type classifier with a focus on feature selection and model performance.
 
@@ -17,7 +17,7 @@ Train and evaluate an XGBoost-based crop type classifier with a focus on feature
 
 ---
 
-### [`2_SB25r_Simulation.ipynb`](./2_SB25r_Simulation.ipynb)
+### [`2_SB25rAll_Simulation.ipynb`](./2_SB25rAll_Simulation.ipynb)
 
 Simulate predictions and visualize results using the pre-trained model and selected features.
 
@@ -40,7 +40,7 @@ Script-based version for batch prediction and evaluation of model performance by
 
 ---
 
-### [`3_SB25r_SimulationBoots.py`](./3_SB25r_SimulationBoots.py)
+### [`3_SB25rAll_SimulationBoots.py`](./3_SB25rAll_SimulationBoots.py)
 
 Robust evaluation using bootstrapped accuracy per crop and week with smoothed visualization.
 
@@ -51,7 +51,7 @@ Robust evaluation using bootstrapped accuracy per crop and week with smoothed vi
 
 ---
 
-### [`4_SB25r_generate_out_for_simulation.py`](./4_SB25r_generate_out_for_simulation.py)
+### [`4_SB25rAll_generate_out_for_simulation.py`](./4_SB25rAll_generate_out_for_simulation.py)
 
 
 Generates a feature-engineered dataset ready for simulation, ensuring consistency with the training phase.
