@@ -9,3 +9,9 @@ Models_Pictures/
 *.pdf
 *.pptx
 Data_Preparation/InputModel/
+.DS_Store
+Data_Preparation/InputModel/
+Output/
+OutputSimulation/
+Models_Pictures/
+Models/*.joblib
